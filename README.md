@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-30 105458](https://github.com/user-attachments/assets/ac4c2008-bfe8-4c91-8e7f-1a15ae9ea056)
+
+![Screenshot 2025-04-30 105528](https://github.com/user-attachments/assets/7997ea11-5ea3-4cbd-913c-07ebd4031d52)
+
+![Screenshot 2025-04-30 105425](https://github.com/user-attachments/assets/60590063-ae1a-4e3b-9556-8c94e771744e)
+
+### Name: Irfan H
+### Register Number: 212224040122
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
